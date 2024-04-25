@@ -1,0 +1,39 @@
+﻿  Source.cpp
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(312,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(330,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(351,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(367,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(383,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(678,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(696,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(717,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(733,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(749,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(974,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(992,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1013,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1029,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1045,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1279,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1297,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1318,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1334,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1350,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1580,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1598,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1619,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1635,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1651,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1740,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(1875,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2130,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2142,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2153,14): warning C4101: 'a': unreferenced local variable
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2223,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2241,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2409,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2551,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2571,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2596,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Semester 2\OOP lab\Project\binary\Source.cpp(2616,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  binary.vcxproj -> D:\University\Semester 2\OOP lab\Project\binary\x64\Debug\binary.exe
